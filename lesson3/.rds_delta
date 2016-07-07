@@ -1,7 +1,10 @@
 #delete
 #add
+res/wgt/src/
+res/wgt/src/4 Tizen API.pdf
 #modify
 res/wgt/author-signature.xml
 res/wgt/signature1.xml
+res/wgt/jqm.html
 res/wgt/js/tizenAPI.js
 res/wgt/vibrate.html
