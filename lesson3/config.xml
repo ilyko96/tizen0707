@@ -7,6 +7,10 @@
     <icon src="icon.png"/>
     <name>BasicApplication</name>
     <tizen:privilege name="http://tizen.org/privilege/internet"/>
-    <tizen:privilege name="http://tizen.org/privilege/call"/>
+    <tizen:privilege name="http://tizen.org/privilege/bluetooth.gap"/>
+    <tizen:privilege name="http://tizen.org/privilege/bluetooth.admin"/>
+    <tizen:privilege name="http://tizen.org/privilege/bluetooth.health"/>
+    <tizen:privilege name="http://tizen.org/privilege/bluetooth.spp"/>
+    <tizen:privilege name="http://tizen.org/privilege/mediacapture"/>
     <tizen:profile name="mobile"/>
 </widget>
